@@ -1,6 +1,6 @@
 package com.company;
 
-//Day-1    DATA TYPES
+//Day-1 Basics   DATA TYPES
 /*
 *
 * Primitive Data Types -
