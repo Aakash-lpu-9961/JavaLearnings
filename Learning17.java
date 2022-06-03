@@ -11,41 +11,8 @@ package com.company;
 *   Scanner sc = new Scanner(System.in)     -   Class
 * 4th Step :
 *   sc.nextInt(), sc.nextFloat()            -   Functions
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
 * */
+
 import java.util.*;
 
 public class Learning17 {
