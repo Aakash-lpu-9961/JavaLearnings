@@ -63,7 +63,7 @@ public class Learning17 {
         Scanner ac= new Scanner(System.in);
         t = ac.nextInt();
         si= p*r*t/100;
-        System.out.println("Value of Simple Interests for given inputs is: "+ si);
+        System.out.println("Value of Simple Interests for given inputs: "+ si);
 
 
     }
